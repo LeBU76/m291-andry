@@ -4,3 +4,4 @@ Donc, j'ai fait quelque stages sur la médiamatique puis je me retrouve maintena
 - je sais coder
 - l'utiliser le moins possible l'IA
 M291 interface web
+![alt text](image.png)
