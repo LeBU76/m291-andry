@@ -5,3 +5,17 @@ Donc, j'ai fait quelque stages sur la médiamatique puis je me retrouve maintena
 - l'utiliser le moins possible l'IA
 M291 interface web
 ![alt text](image.png)
+# Mon projet
+
+## À propos
+
+Voici mon premier projet avec GitHub.
+
+### Technologies
+
+- HTML
+- CSS
+- JavaScript
+
+
+[Mon GitHub](https://github.com/)
