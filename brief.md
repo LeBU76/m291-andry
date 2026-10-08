@@ -4,7 +4,7 @@
 Quand on cherche une idée de voyage depuis la Suisse romande, on trouve beaucoup de photos et de sites différents. C’est parfois difficile de choisir rapidement un endroit qui nous plaît. Travel’Pics regroupe des destinations avec une photo et des informations simples pour aider à trouver une idée de voyage.
 
 ## 2. Profil de l'Utilisateur Cible (Persona)
-- **Prénom & Âge :** Emma, 17 ans
+- **Prénom & Âge :** Nathan, 24 ans
 - **Contexte d'utilisation :** À la maison ou dans les transports, surtout sur son smartphone de 390 px.
 - **Besoins clés :** Voir de belles photos, trouver rapidement une destination et lire des informations courtes.
 

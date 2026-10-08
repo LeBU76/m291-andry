@@ -7,11 +7,11 @@
 
 ## Chemin
 
-1. **Accueil :** Emma ouvre l’application et voit une liste de destinations avec des photos.
-2. **Recherche :** elle tape un mot-clé comme « Grèce » dans la barre de recherche.
+1. **Accueil :** il ouvre l’application et voit une liste de destinations avec des photos.
+2. **Recherche :** il tape un mot-clé comme « Grèce » dans la barre de recherche.
 3. **Liste filtrée :** les destinations correspondantes s’affichent, par exemple Santorin.
-4. **Fiche détaillée :** elle ouvre la fiche de Santorin et voit la photo, le pays et la description.
-5. **Action :** elle appuie sur « Ajouter aux favoris ». Une confirmation apparaît.
+4. **Fiche détaillée :** il ouvre la fiche de Santorin et voit la photo, le pays et la description.
+5. **Action :** il appuie sur « Ajouter aux favoris ». Une confirmation apparaît.
 
 ## Variante d’échec (optionnel)
 

@@ -1,8 +1,8 @@
 # Persona
 
-**Prénom et âge :** Emma, 17 ans  
-**Occupation :** Étudiante au gymnase  
-**Où et quand iel utilise l’app :** Elle utilise l’app à la maison ou dans les transports. Elle regarde l’application quand elle cherche une idée pour les vacances.  
+**Prénom et âge :** Nathan, 24 ans  
+**Occupation :** Étudiant
+**Où et quand iel utilise l’app :** IL utilise l’app à la maison ou dans les transports. IL regarde l’application quand elle cherche une idée pour les vacances.  
 **Appareil :** surtout téléphone
 
 ## Objectif (une phrase)
@@ -16,6 +16,6 @@ Trop de texte, trop de menus ou une inscription obligatoire juste pour voir une 
 
 ## 3 faits utiles pour le design
 
-1. Elle regarde surtout les photos avant de lire le texte.
-2. Elle utilise l’app principalement avec son téléphone et à une main.
-3. Elle veut trouver une destination en moins d’une minute.
+1. Il regarde surtout les photos avant de lire le texte.
+2. Il utilise l’app principalement avec son téléphone et à une main.
+3. Il veut trouver une destination en moins d’une minute.
