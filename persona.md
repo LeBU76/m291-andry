@@ -2,7 +2,7 @@
 
 **Prénom et âge :** Nathan, 24 ans  
 **Occupation :** Étudiant
-**Où et quand iel utilise l’app :** IL utilise l’app à la maison ou dans les transports. IL regarde l’application quand elle cherche une idée pour les vacances.  
+**Où et quand iel utilise l’app :** Il utilise l’app à la maison ou dans les transports. IL regarde l’application quand elle cherche une idée pour les vacances.  
 **Appareil :** surtout téléphone
 
 ## Objectif (une phrase)
